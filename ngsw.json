@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1649791732259,
+  "timestamp": 1649794147644,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -30,6 +30,8 @@
         "ignoreVary": true
       },
       "urls": [
+        "/assets/arjs/aframe-ar-nft.js",
+        "/assets/arjs/aframe.min.js",
         "/assets/icons/icon-128x128.png",
         "/assets/icons/icon-144x144.png",
         "/assets/icons/icon-152x152.png",
@@ -58,6 +60,8 @@
   ],
   "dataGroups": [],
   "hashTable": {
+    "/assets/arjs/aframe-ar-nft.js": "c1395a0967bb61aa616326046ca1f012210d7d86",
+    "/assets/arjs/aframe.min.js": "3d2f553eda5dca3545520c80f974c7cbdd732342",
     "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
@@ -81,7 +85,7 @@
     "/bootstrap-icons.51e2826a5e883791.woff": "36952dbeb50a08a17d0dba69fa9cccde990ed10d",
     "/bootstrap-icons.988b20fa812f3498.woff2": "1ca5e8c7d2fb8e9d60ad1a1feb2a46e98c248a3d",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "572f3bd2c8793fb9946d00eb3c130a811d056018",
+    "/index.html": "6da72e2983a6d07730dcc845c2ce0be019c6e279",
     "/main.9e9d13b2177e4436.js": "efa92f4c30d321b78c00fa4e5d2e81ed4a8c9bb9",
     "/manifest.webmanifest": "fbbb509823ff9982f1f8b174de01aabe21b32ca5",
     "/polyfills.c123e7c3ef8e2618.js": "7772af857fa8c8a2e8a7408101cb1b668c2deee2",
